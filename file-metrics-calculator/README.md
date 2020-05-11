@@ -1,5 +1,9 @@
 # CSX42: File Metrics Calculator
-## Name: Bhargav Choudhury
+
+```
+Author: Bhargav Choudhury
+e-mail: bchoudh4@binghamton.edu
+```
 
 -----------------------------------------------------------------------
 ## Description: 
@@ -100,11 +104,6 @@ BUILD SUCCESSFUL
 Total time: 0 seconds
 
 ```
-
----------------------------------------------------------------------------------------------------
-## Citation
-
-Referred [GeeksforGeeks](https://www.geeksforgeeks.org/) for File Reading and Writing
 
 -----------------------------------------------------------------------
 ### Academic Honesty statement:
